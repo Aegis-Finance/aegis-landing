@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://aegisprotocol.org/sitemap-pages.xml</loc>
+    <changefreq>weekly</changefreq>
+  </sitemap>
+  <sitemap>
+    <loc>https://doc.aegisprotocol.org/sitemap.xml</loc>
+    <changefreq>weekly</changefreq>
+  </sitemap>
+  <sitemap>
+    <loc>https://garage.aegisprotocol.org/sitemap.xml</loc>
+    <changefreq>daily</changefreq>
+  </sitemap>
+</sitemapindex>
